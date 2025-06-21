@@ -37,3 +37,5 @@ next-env.d.ts
 
 # Sentry Config File
 .env.sentry-build-plugin
+# Add this line to ensure all .env files are ignored
+.env
